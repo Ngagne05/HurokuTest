@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ToDeplotToherokuTest"
+    }
+  },
+  "defaultProject": "ToDeplotToherokuTest",
+  "cli": {
+    "analytics": "bc6d7e12-5f3a-45c4-8d6d-71519432e73a"
+  }
 }
